@@ -1,4 +1,5 @@
 # curriculum-programs
-这是大一做的C++课程设计和大二的汇编语言课程设计。
-C++课程设计用MFC，很多系统代码都是直接生成的粘过来的时候就比较长了。
-汇编语言课程设计，写得比较头疼，不过最后还是成功完成了交通路口红绿灯控制系统。
+
+This is the C++ course design for the freshman year and the assembly language course design for the sophomore.
+C++ course design uses MFC, and many system code is directly generated and glued over.
+The assembly language course design was a bit of a headache, but in the end, the traffic light control system at the intersection was successfully completed.
